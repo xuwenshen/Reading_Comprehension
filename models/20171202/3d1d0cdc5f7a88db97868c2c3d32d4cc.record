@@ -1,0 +1,2 @@
+{"batch_size": 50, "criteria": "valid match f1", "dropout": 0.5, "hidden_size": 200, "lambda_c": 0, "lambda_g": 1, "lambda_m": 1, "lr": 0.001}
+f1
